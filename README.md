@@ -34,8 +34,8 @@ O objetivo deste pequeno projeto é praticar conhecimentos adquiridos em anális
 1. Clone o repositório:
 
 \`\`\`bash
-git clone https://github.com/seu-usuario/analise_vendas_loja.git
-cd analise_vendas_loja
+git clone https://github.com/seu-usuario/analise_vendas.git
+cd analise_vendas_lojas
 \`\`\`
 
 2. Instale as bibliotecas necessárias (recomendo usar ambiente virtual):
